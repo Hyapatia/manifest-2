@@ -58,6 +58,8 @@
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="bbq" />
   <remove-project name="platform/frameworks/rs" />
   <project path="frameworks/rs" name="frameworks_rs" remote="bbq" />
+  <remove-project name="platform/frameworks/support" />
+  <project path="frameworks/support" name="frameworks_support" remote="bbq" />
 
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Nfc" />
