@@ -90,7 +90,7 @@
 
   <!-- Vendor -->
   <project path="vendor/bbq" name="vendor_bbq" remote="bbq" />
-  <project path="vendor/gapps" name="vendor_gapps" remote="mtg" />
+  <project path="vendor/gapps" name="vendor_gapps" remote="bbq" />
   <remove-project name="platform/system/qcom" />
   <project path="vendor/qcom/opensource/softap" name="vendor_qcom_opensource_softap" remote="bbq" />
 
