@@ -86,7 +86,7 @@
   <!-- Toolchains -->
   <remove-project name="platform/prebuilts/clang/host/linux-x86" />
   <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="bbq" />
-  <project path="prebuilts/clang/host/linux-x86/clang-4667116" name="prebuilts_clang_host_linux-x86_clang-4667116" remote="bbq" />
+  <project path="prebuilts/clang/host/linux-x86/clang-4679922" name="clang-4667116" remote="bbq" />
 
   <!-- Vendor -->
   <project path="vendor/bbq" name="vendor_bbq" remote="bbq" />
