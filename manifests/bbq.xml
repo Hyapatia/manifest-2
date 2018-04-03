@@ -93,6 +93,8 @@
   <project path="vendor/gapps" name="vendor_gapps" remote="bbq" />
   <remove-project name="platform/system/qcom" />
   <project path="vendor/qcom/opensource/softap" name="vendor_qcom_opensource_softap" remote="bbq" />
+  <remove-project name="platform/vendor/qcom-opensource/interfaces" />
+  <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="bbq" />
 
   <!-- Obsolete Packages -->
   <remove-project name="abl/tianocore/edk2"/>
