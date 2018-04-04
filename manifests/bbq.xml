@@ -109,6 +109,7 @@
   <remove-project name="device/generic/qemu"/>
   <remove-project name="device/generic/x86"/>
   <remove-project name="platform/hardware/stm"/>
+  <remove-project name="platform/vendor/qcom-opensource/time-services"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/fw-api"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn"/>
   <remove-project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0"/>
