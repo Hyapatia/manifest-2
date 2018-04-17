@@ -26,6 +26,8 @@
   <!-- External -->
   <remove-project name="platform/external/selinux" />
   <project path="external/selinux" name="external_selinux" remote="bbq" />
+  <remove-project name="platform/external/tinycompress" />
+  <project path="external/tinycompress" name="external_tinycompress" remote="bbq" />
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />
