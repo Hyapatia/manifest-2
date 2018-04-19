@@ -77,6 +77,8 @@
   <!-- Vendor -->
   <project path="vendor/bbq" name="vendor_bbq" remote="bbq" />
   <project path="vendor/gapps" name="vendor_gapps" remote="bbq" />
+  <project path="vendor/vndk" name="vendor_vndk" remote="bbq" />
+  <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="bbq" />
 
   <!-- Obsolete Packages -->
   <remove-project name="platform/hardware/qcom/camera"/>
