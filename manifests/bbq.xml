@@ -28,6 +28,7 @@
   <project path="external/selinux" name="external_selinux" remote="bbq" />
   <remove-project name="platform/external/tinycompress" />
   <project path="external/tinycompress" name="external_tinycompress" remote="bbq" />
+  <project path="external/libnfc-nxp" name="external_libnfc-nxp" remote="bbq" />
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />
