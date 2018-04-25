@@ -54,6 +54,8 @@
   <project path="frameworks/support" name="frameworks_support" remote="bbq" />
 
   <!-- Packages -->
+  <remove-project name="platform/packages/apps/DeskClock" />
+  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="bbq" />
   <remove-project name="platform/packages/apps/Settings" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="bbq" />
   <remove-project name="platform/packages/apps/Nfc" />
