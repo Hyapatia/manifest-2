@@ -23,6 +23,10 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- Bootable -->
+  <remove-project name="platform/bootable/recovery" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="bbq" />
+
   <!-- External -->
   <remove-project name="platform/external/selinux" />
   <project path="external/selinux" name="external_selinux" remote="bbq" />
