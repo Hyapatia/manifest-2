@@ -63,8 +63,8 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="bbq" />
   <remove-project name="platform/packages/apps/Nfc" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="bbq" />
-  <remove-project name="platform/packages/services/telephony" />
-  <project path="packages/apps/Nfc" name="packages_services_telephony" remote="bbq" />
+  <remove-project name="platform/packages/services/Telephony" />
+  <project path="packages/apps/Nfc" name="packages_services_Telephony" remote="bbq" />
 
   <!-- System -->
   <remove-project name="platform/system/bt" />
